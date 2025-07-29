@@ -1,4 +1,4 @@
-# Universal-Model-Deployment-App
+# Universal Model Deployment App
 
 This is a universal model deployment tool based on Streamlit.
 
@@ -18,3 +18,13 @@ After loading the model, you can drag and drop your pre-processed sample files (
 > *You need to provide your own trained model and config file. The app does not include any model training.*
 
 ---
+
+## Screenshots
+
+### Main UI
+
+![Main UI](UI.png)
+
+### Prediction Result
+
+![Prediction Result](UIR.png)
