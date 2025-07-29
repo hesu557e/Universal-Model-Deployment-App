@@ -18,6 +18,8 @@ After loading the model, you can drag and drop your pre-processed sample files (
 > *You need to provide your own trained model and config file. The app does not include any model training.*
 
 ---
+A live Streamlit deployment is available at:  
+[https://universal-model-deployment-appgit-evp5ztpw3cjgokeawmiutg.streamlit.app/](https://universal-model-deployment-appgit-evp5ztpw3cjgokeawmiutg.streamlit.app/)
 
 ## Screenshots
 
