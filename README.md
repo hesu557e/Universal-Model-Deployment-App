@@ -27,4 +27,4 @@ After loading the model, you can drag and drop your pre-processed sample files (
 
 ### Prediction Result
 
-![Prediction Result](UIR.png)
+![Prediction Result](UI2.png)
